@@ -1,0 +1,3 @@
+curl --location 'http://localhost:5000/user/655965089bf5ecdb9952aafc' \
+--header 'accept: application/json' \
+--header 'Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NTU5NjUwODliZjVlY2RiOTk1MmFhZmMiLCJpYXQiOjE3MDAzNjEwOTUsImV4cCI6MTcwMDM2NDY5NX0.MF6_JLecvuINs4oiD--J8tfigh7G5r1uf0r5gssTTLY'
